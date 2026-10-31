@@ -12,6 +12,7 @@ Hello! I'm Saksham, a B.Tech CSE student. This is my first web development pract
 - Learn how to organize project files.
 - Practice using VS Code.
 - Get familiar with Git and GitHub.
+- Practice making updates and uploading them using Git.
 
 ## Technologies Used
 
