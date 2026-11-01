@@ -39,7 +39,19 @@ Hello! I'm Saksham, a B.Tech CSE student. This is my first web development pract
 - Request types observed: `Document and WebSocket`
 - Example status codes: `304 (Not Modified), 101 (Switching Protocols)`
 - Observation: `The index.html document loaded successfully. A WebSocket connection was established.`
-- Evidence: ![Network panel](https://github.com/user-attachments/assets/67690787-023c-43eb-9020-5e0186e50fbd)
+- [Network panel](https://github.com/user-attachments/assets/67690787-023c-43eb-9020-5e0186e50fbd)
+
+## How a Website Loads
+
+When a user enters a URL in the browser:
+
+1. The browser reads the URL.
+2. DNS finds the server's IP address (for domain names).
+3. The browser sends an HTTP request to the server.
+4. The server sends the website files as a response.
+5. The browser renders the webpage.
+
+For this project, Live Server runs locally on port 5500.
 
 ## Author
 
