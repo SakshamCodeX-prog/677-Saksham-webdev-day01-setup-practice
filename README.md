@@ -39,7 +39,7 @@ Hello! I'm Saksham, a B.Tech CSE student. This is my first web development pract
 - Request types observed: `Document and WebSocket`
 - Example status codes: `304 (Not Modified), 101 (Switching Protocols)`
 - Observation: `The index.html document loaded successfully. A WebSocket connection was established.`
-- [Network panel](https://github.com/user-attachments/assets/67690787-023c-43eb-9020-5e0186e50fbd)
+![Network panel](https://github.com/user-attachments/assets/67690787-023c-43eb-9020-5e0186e50fbd)
 
 ## How a Website Loads
 
