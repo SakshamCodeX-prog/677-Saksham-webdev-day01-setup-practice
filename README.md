@@ -31,6 +31,16 @@ Hello! I'm Saksham, a B.Tech CSE student. This is my first web development pract
 2. Open the project folder.
 3. Open `index.html` in your web browser.
 
+## Chrome DevTools - Network Panel
+
+- - Website: `My First Webpage (http://127.0.0.1:5500/index.html)`
+- Date inspected: `November 1, 2026`
+- Steps: Opened Chrome DevTools, selected Network, and reloaded the page.
+- Request types observed: `Document and WebSocket`
+- Example status codes: `304 (Not Modified), 101 (Switching Protocols)`
+- Observation: `The index.html document loaded successfully. A WebSocket connection was established.`
+- Evidence: ![Network panel](https://github.com/user-attachments/assets/67690787-023c-43eb-9020-5e0186e50fbd)
+
 ## Author
 
 Saksham  
